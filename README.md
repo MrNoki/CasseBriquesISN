@@ -15,3 +15,7 @@ Non implémenté pour le moment :
 
 @Desc
 Petit projet d'informatique pour la spécialité informatique et science du numérique du Bac 2014.
+
+
+ATENTION LES IMAGES ET DIFFERENTES RESSOURCES COMME LES NIVEAUX ET HIGHSCORE NE SONT PAS TELECHARGEABLE ICI MAIS ICI :
+https://mega.co.nz/#!nMAE0b5a!CLe7nGUbELdep-Ze8xCwPnmltNoD5iRMUg0x4EywSMc
